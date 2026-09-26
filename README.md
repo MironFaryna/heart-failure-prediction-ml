@@ -83,4 +83,4 @@ This project is for educational purposes only and is not intended for medical di
 
 ## Author
 
-**Myron Faryna** – [LinkedIn](https://www.linkedin.com/in/%CE%BC%CF%85%CF%81%CF%89%CE%BD-%CF%86%CE%B1%CF%81%CE%B9%CE%BD%CE%B1-385171339) · [GitHub](https://github.com/MyronFaryna)
+**Myron Faryna** – [LinkedIn](https://www.linkedin.com/in/miron-faryna-385171339/) · [GitHub](https://github.com/MironFaryna)

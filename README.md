@@ -58,7 +58,7 @@ The dataset is downloaded automatically in the notebook via `kagglehub`.
 ## How to Run
 
 ```bash
-git clone https://github.com/MyronFaryna/heart-failure-prediction-ml.git
+git clone https://github.com/MironFaryna/heart-failure-prediction-ml.git
 cd heart-failure-prediction-ml
 pip install -r requirements.txt
 jupyter notebook heart_failure_prediction_analysis.ipynb
@@ -83,4 +83,4 @@ This project is for educational purposes only and is not intended for medical di
 
 ## Author
 
-**Myron Faryna** – [LinkedIn](https://www.linkedin.com/in/miron-faryna-385171339/) · [GitHub](https://github.com/MironFaryna)
+**Miron Faryna** – [LinkedIn](https://www.linkedin.com/in/miron-faryna-385171339/) · [GitHub](https://github.com/MironFaryna)
